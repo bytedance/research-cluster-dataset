@@ -2,7 +2,7 @@
 ## Introduction
 
 This repository contains a public release of ByteDance microservice cluster data for the benefit of research and the academic community.
-The data directory contains four JSON files corresponding to four real clusters at ByteDance. 
+The `dataset` directory contains four JSON files corresponding to four real clusters at ByteDance. 
 We provide the following information for each cluster:
 
  * List of services, containers, and machines;
